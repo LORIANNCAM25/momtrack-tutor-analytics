@@ -12,7 +12,7 @@
 
 ---
 
-## 🛠 Technologies Used
+##  Technologies Used
 
 * **Python** — for synthetic dataset generation
 * **SQL (PostgreSQL)** — for querying and insight extraction
@@ -21,7 +21,7 @@
 
 ---
 
-## 📈 Sample SQL Query
+##  Sample SQL Query
 
 ```sql
 SELECT 
